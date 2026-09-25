@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ismail Marmoush
 
-<!--
-**IsmailMarmoush/ismailmarmoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & Technology Consultant focused on backend systems, distributed systems, and software architecture.
 
-Here are some ideas to get you started:
+I design and build reliable, scalable systems using modern architectures and technologies suited to the problem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+- Software Architecture & Distributed Systems
+- Java & Kotlin
+- DevSecOps & Cloud Infrastructure
+- Android
+- Rust
+
+### Engineering
+
+I care about:
+
+- Simplicity over unnecessary complexity
+- Clean, maintainable design
+- Security and reliability
+- Observability
+- Iterative delivery
+- Practical architecture
+
+### Background
+
+I've worked across European technology companies and startups, including Zalando, Glovo, and Jobandtalent, building and modernizing production systems at scale.
+
+### Links
+
+[Website](https://marmoush.com) · [LinkedIn](https://linkedin.com/in/ismailmarmoush) · [Blog](https://marmoush.com/#/blog)
